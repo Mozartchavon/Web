@@ -1,0 +1,35 @@
+.wrapper{
+	width: 1020px;
+	margin: auto;
+}
+
+
+
+#adiv img{
+	width: 100%;
+}
+
+#bdiv img{
+	float: left;
+	display: inline-block;
+	width: 45%;
+	
+}
+
+#textouno{
+	float: right;
+	width: 45%;
+	display: inline-block;
+}
+
+#cdiv img{
+	float: right;
+	display: inline-block;
+	width: 45%;
+}
+
+#textodos{
+	float: left;
+	width: 45%;
+	display: inline-block;
+}
