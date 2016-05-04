@@ -1,0 +1,169 @@
+@import url(https://fonts.googleapis.com/css?family=Questrial|Montserrat);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:300);
+@import url(https://fonts.googleapis.com/css?family=Poppins:300);
+body{
+	background-image: url(https://s3.amazonaws.com/nikeinc/assets/43188/Nike_ZoomSquad_Kobe_Bryant_square_1600.jpg?1434590583);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    }
+
+.koby{
+	
+
+
+}
+
+h1{
+	font-family: Montserrat;
+	font-size: 100px;
+	font-style; color: white;
+
+
+}
+
+.bry{
+	font-family: Montserrat;
+	font-size: 100px;
+	margin-top: -100px;
+}
+
+p{
+	font-family: Montserrat;
+	float: left;
+	margin-top: -100px;
+	margin-left: 20px;
+	float: right;
+	font-style; color: white;
+	
+}
+
+.dos{
+
+	font-family:Poppins:300;
+	font-size: 200px;
+	float: left;
+	margin-top: -70px;
+	margin-bottom: -10px;
+	font-style; color: #FDB927;
+	
+
+}
+
+.pdos{
+
+	float: right;
+	margin-top: -80px;
+	margin-left: 20px;
+	font-style; color: white;
+}
+
+h3{
+	float: right;
+	font-family: Montserrat;
+	margin-top: -50px;
+	font-style; color: #00FFFF;
+}
+
+.borde{
+	height: 1px;
+	margin-top: 150px;
+	margin-bottom: -10px;
+	margin-left: 400px;
+	color: white;
+   border-style: ridge;
+}
+
+#formados{
+	background-image: url(https://blog-blogmediainc.netdna-ssl.com/upload/SportsBlogcom/2389111/0971403001460666523_filepicker.jpg);
+	background-repeat: no-repeat;
+    background-size: 270px;
+	float: right;
+	width: 270px;
+	height: 270px;
+}
+
+
+#forma{
+	background-image: url(http://static-12.sinclairstoryline.com/resources/media/7bb1a85d-889a-4668-be20-3d71036720c8-large16x9_APTOPIXJazzLakersB_King1.jpg?1460645671387);
+	background-repeat: no-repeat;
+    background-size: 270px;
+	margin-top: 200px;
+	
+	width: 270px;
+	height: 270px;
+}
+
+#formatres{
+	background-image: url(http://www.trbimg.com/img-570f2480/turbine/la-sp-kobe-last-game-pictures-20160413-024/600);
+	background-repeat: no-repeat;
+    background-size: 270px;
+	margin-top: -270px;
+	margin-left: 350px;
+	
+	width: 270px;
+	height: 270px;
+}
+
+
+
+
+iframe {
+	margin-top: 50px;
+	
+	width: 960px;
+	height:460px;
+	
+	
+
+}
+
+
+
+
+.controltres{
+	float: right;
+	margin-left: 500px;
+	margin-top: 10px;
+	width: 270px;
+}
+
+h4{
+	font-size: 25px;
+	float: left;
+	margin-top: 300px;
+	margin-bottom: 2px;
+	font-style; color: #00FFFF; 
+	font-family: Poppins;
+}
+
+#two{
+	font-size: 25px;
+	float: left;
+	margin-top: -43px;
+	margin-bottom: 2px;
+	font-style; color: #00FFFF; 
+	font-family: Poppins;
+}
+
+#text{
+	font-size: 15px;	
+	float: left;
+	margin-left: 5px;
+	margin-top: 5px;
+	font-style; color: #00FFFF; 
+	font-family: Poppins;
+}
+
+
+.container {
+	width: 960px;
+	height: 400px;
+	margin: 0 auto;
+}
+
+
+
+.clear {
+	clear: both;
+}
+
