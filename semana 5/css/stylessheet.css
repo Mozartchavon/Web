@@ -1,0 +1,82 @@
+@import url(https://fonts.googleapis.com/css?family=Muli|Pacifico|Quicksand:700);
+.borde{background-color: #0f0f0f;
+			height: 50px;
+			width: 200px
+			padding: 100px;}
+
+.super{font-family: muli;
+ 			margin-left: -100px;
+ 			font-size: 15pt;
+ 			margin-top: -10px;}
+
+header div {background-color: #5EF2BC;
+	margin-top: 10px;
+			height: 100px;
+			width: 900px
+			padding: 100px;
+
+		}
+
+body {background-color: #0f0f0f}
+
+header h1{
+			font-family: Quicksand;
+			font-variant: :700;
+			color: #0f0f0f;
+			margin-top: -20px;
+			float: left;
+			padding: 60px; 
+			font-size:24pt;}
+
+
+
+section{width:700px;
+		height:900px; 
+		
+		margin-right:200px; 
+	 	margin-top: 20px;
+	 	
+	}
+.bordesito{background-color: #0f0f0f;
+			height:20px;
+			width: 200px
+			padding: 100px;}
+s{font-size: arial;}
+nav{padding: 8px;}
+
+ul{list-style-type: none; margin: 0; padding: 0;display: inline-block; position: relative;}
+
+/*nav*/
+.inicio{display: inline;color:#5EF2BC; margin-right: 20px;font-family: muli;}
+.nosotros{display: inline;color:#5EF2BC; margin-right: 20px; font-family: muli;}
+.menu{display: inline;color:#5EF2BC;margin-right: 20px; font-family: muli;}
+.contactos{display: inline;color:#5EF2BC; margin-right: 20px; font-family: muli;}
+
+
+
+/*iside*/
+aside{float: left; margin-left: 5px}
+.fotos{font-size: arial; color: #5EF2BC; font-family: muli}
+.trabajos{font-size: arial;color: #5EF2BC;font-family: muli}
+.paginasweb{font-size: arial;color: #5EF2BC;font-family: muli}
+
+p{
+	color:#a6a1a1
+	; font-family: Arial;
+	font-size: 15px;
+	text-align;left: }
+
+.h1{
+	color: white; 
+	font-family: muli;
+	 font-size: 24;}
+
+footer{
+	font-family: muli; 
+	display: block;
+	width: 100%;
+	background-color:#5EF2BC; 
+	
+	font-size: 8pt;
+}
+

@@ -1,0 +1,97 @@
+
+@import url(https://fonts.googleapis.com/css?family=Josefin+Sans:100);
+
+.jumbotron h1{
+	color: #3F0102;
+	font-family: Josefin+Sans; font-variant: 100; font-size: 80px;
+
+}
+
+.jumbotron h1,h1{
+		color: #3F0102;
+	font-family: Work+Sans; font-variant: 200; font-size: 80px;
+
+}
+
+.jumbotron {
+	height: 500px;
+	background-image: url("../imagenes/onion.jpg");
+	background-repeat: no-repeat;
+	background-size: contain;
+	background-color: white;
+	
+}
+
+
+
+
+.navbar-brand{
+	background-color: #3F0102;
+}
+
+.navbar-inverse {
+    background-color: white;
+    border-color: white;
+}
+
+
+.jumbo h1{
+	color: white;
+}
+
+.jumbo {
+	height: 500px;
+	background-image: url("../imagenes/cebolla.jpg");
+	background-repeat: no-repeat;
+	background-size: contain;
+	background-color: white;
+}
+
+.btn-group-lg>.btn, .btn-lg {
+	margin-top: 50px;
+    
+    font-size: 18px;
+    line-height: 1.3333333;
+    border-radius: 6px;
+   margin-top: 280px; 
+   margin-left: 65px;
+   	background-color: #3F0102;
+   	border-color: #3F0102;
+}
+
+.btn-success {
+    color: #3F0102;
+    background-color: white;
+    border-color: white;
+}
+
+.btn-success {
+    color: #3F0102;
+    background-color: white;
+    border-color: white;s
+}
+
+.logo{|
+font-color: #D18F0F;
+}
+
+
+.tron{
+	height: 500px;
+	background-image: url("../imagenes/comprar.jpg");
+	background-repeat: no-repeat;
+	background-size: contain;
+	background-color: white;
+}
+
+.comprar{
+
+    font-style; color: white;           
+    font-size: 18px;
+    line-height: 1.3333333;
+    border-radius: 6px;
+
+   	background-color: #3F0102;
+   	border-color: #3F0102;
+
+}

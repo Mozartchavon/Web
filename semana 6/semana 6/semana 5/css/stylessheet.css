@@ -1,0 +1,190 @@
+@import url(https://fonts.googleapis.com/css?family=Muli|Pacifico|Quicksand:700);
+@import url(font-awesome.min.css);
+body {background-color: #0f0f0f}
+body, div, header, aside, section {
+	display: block;
+}
+
+.borde{background-color: #0f0f0f;
+			height: 50px;
+			width: 200px
+			padding: 100px;}
+
+header {
+	width: 100%;
+	padding-top: 35px;
+	padding-bottom: 35px;
+	display: inline-block;
+	margin-top: 80px;
+	margin-bottom: 120px;
+	background-color: #50C;
+	height: auto;
+}
+
+.logo {
+	display: block;
+	float: left;
+	width: 24%;
+}
+
+header h1 {
+	font-family: Quicksand;
+	font-variant: :700;
+	color: #0f0f0f;
+	padding: 0; 
+	font-size:24pt;
+}
+
+header h1 small {
+	font-family: muli;
+ 	font-size: 15pt;
+}
+
+nav{
+	display: block;
+	float: right;
+	padding: 10px 0 0 0;
+	width: 45%;
+}
+
+ul{list-style-type: none; margin: 0; padding: 0;display: inline-block; position: relative;}
+
+nav ul li {
+	font-family: muli;
+	font-weight: 700;
+	display: inline-block;
+	margin-left: 11px;
+	color: #000;
+	cursor: pointer;
+}
+nav ul li:hover {
+	color:#6baa93;
+}
+
+/*iside*/
+aside {
+	width: 25%;
+	float: left; 
+}
+aside ul li {
+	border: solid 1px #5EF2BC;
+	margin: 4px;
+	padding: 10px;
+	cursor: pointer;
+}
+aside ul li:hover {
+	background: #5EF2BC;
+	color: #000;
+}
+
+section {
+	float: left;
+	width:70%;
+}
+
+s{font-size: arial;}
+
+.clear {
+	clear: both;
+}
+.fotos{font-size: arial; color: #5EF2BC; font-family: muli}
+.trabajos{font-size: arial;color: #5EF2BC;font-family: muli}
+.paginasweb{font-size: arial;color: #5EF2BC;font-family: muli}
+
+article h1 {
+	margin-bottom: 5px;
+}
+
+article p {
+	color:#a6a1a1; 
+	font-family: Arial;
+	font-size: 15px;
+	text-align: justify;
+	word-wrap: break-word;
+}
+
+article img {
+	float: left;
+	margin: 0 6px 1px 0;
+}
+
+.h1{
+	color: white; 
+	font-family: muli;
+	 font-size: 24;}
+
+footer{
+	font-family: muli; 
+	display: block;
+	width: 100%;
+	background-color:#5EF2BC; 
+	font-size: 8pt;
+	padding: 20px;
+	font-weight: 700;
+}
+/* 
+			
+	Responsive
+				
+ */
+.container {
+	width: 960px;
+	margin: 0 auto;
+}
+
+/* responsive*/
+ 
+/* escritorio*/
+@media (min-width: 768px) and (max-width: 1199px) { 
+
+	
+
+}
+
+ 
+/* Móvil*/
+@media (max-width: 480px) { 
+	.container {
+		width: 90%;
+	}
+
+	.logo {
+		width: 100%;
+		margin-bottom: 10px;
+	}
+
+	nav {
+		width: 100%;
+	}
+
+	nav ul li {
+		width: 90%;
+		text-align: center;
+		margin: 5px auto;
+		border:solid 1px #000;
+		padding: 5px;
+	}
+
+	aside {
+		width: 100%;
+		margin: 0;
+		padding: 0;
+		margin-bottom: 10px;
+	}
+
+	aside ul {
+		width: 90%;
+		padding: 0;
+		margin: 0;
+
+	}
+
+	aside ul li {
+		width: 100%;
+	}
+
+	section {
+		width: 100%;
+	}
+
+ }
